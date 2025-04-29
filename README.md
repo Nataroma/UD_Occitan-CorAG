@@ -31,13 +31,13 @@ The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior 
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
-Lemmas: manual native
+Genre: legal:legal
+Lemmas: not available
 UPOS: manual native
 XPOS: not available
-Features: manual native
+Features: not available
 Relations: manual native
-Contributors: Romanova, Natalia
+Contributors: Francioni, Barbara; Romanova, Natalia; Ziane, Rayan; Daoudi, Khensa; Larrivée, Pierre
 Contributing: here
 Contact: natalia.romanova@unicaen.fr
 ===============================================================================
